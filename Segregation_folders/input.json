@@ -1,0 +1,224 @@
+" {""question"": ""Did you face any challenge throughout the Assessment?"",""options"": [],""question_type"": ""Subjective"",""question_contains_image"": ""no"",""question_contains_table"": ""no""
+}""{
+""question"": ""In SQL the spaces at the end of the string are removed by ____ function."",
+""options"": [
+    ""Upper"",
+    ""String"",
+    ""Trim"",
+    ""Lower""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}"" ```json{
+""question"": ""Which command is used to remove a relation from an SQL?"",
+""options"": [
+    ""Drop"",
+    ""Delete"",
+    ""Purge"",
+    ""Remove""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": "" Kruskal's algorithm is used to ____"",
+""options"": [
+    ""find minimum spanning tree"",
+    ""find single source shortest path"",
+    ""find all pair shortest path algorithm"",
+    ""traverse the graph""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Which is also known as late binding or run-time binding?"",
+""options"": [
+    ""Data hiding"",
+    ""Dynamic Typing"",
+    ""Dynamic binding"",
+    ""Dynamic loading""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Which among the following handles the undefined class exception in the program?"",
+""options"": [
+    ""ClassNotFound"",
+    ""NoClassDefFoundError"",
+    ""ClassFoundException"",
+    ""ClassNotFoundException""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""What is the maximum possible length of an identifier in Python?"",
+""options"": [
+    ""79 characters"",
+    ""31 characters"",
+    ""63 characters"",
+    ""none of the mentioned""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""What will be the output of the following Python code snippet?\n\nfor i in [
+    1,
+    2,
+    3,
+    4
+][
+    : : -1
+]:\n\tprint(i)"",
+""options"": [
+    ""4 3 2 1"",
+    ""Error"",
+    ""1 2 3 4"",
+    ""none of the mentioned""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Which of the following is not a core data type in Python programming?"",
+""options"": [
+    ""Tuples"",
+    ""Lists"",
+    ""Class"",
+    ""Dictionary""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Which of the following is the truncation division operator in Python?"",
+""options"": [
+    "" //"",
+    ""/"",
+    ""%""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""What does pip stand for python?"",
+""options"": [
+    ""unlimited length"",
+    ""all private members must have leading and trailing underscores"",
+    ""Preferred Installer"",
+    ""Program"",
+    ""none of the mentioned""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""What is the order of precedence in python?"",
+""options"": [
+    ""Exponential, Parentheses, Multiplication, Division, Addition, Subtraction"",
+    ""Exponential, Parentheses, Division, Multiplication, Addition, Subtraction"",
+    ""Parentheses, Exponential, Multiplication, Division, Subtraction, Addition"",
+    ""Parentheses, Exponential, Division, Multiplication, Addition, Subtraction""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```""{
+""question"": ""Which of the following is used to define a block of code in Python language?"",
+""options"": [
+    ""Indentation"",
+    ""Brackets"",
+    ""Key"",
+    ""All of the mentioned""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}"" ```json{
+""question"": ""Which of the following is the correct extension of the Python file?"",
+""options"": [
+    ""Python"",
+    "".pl"",
+    "".py"",
+    "".p""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Six friends are sitting in a circle and are facing the center of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Who is right to Pankaj?"",
+""options"": [
+    ""Deepa"",
+    ""Lalit"",
+    ""Prakash"",
+    ""Priti""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"" ```json{
+""question"": ""Choose the word that is a necessary part of the underlined word:\nchampion"",
+""options"": [
+    ""Running"",
+    ""Swimming"",
+    ""Winning"",
+    ""Speaking""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```""{
+""question"": ""If North-East becomes North and North-West becomes West. What will the East become?"",
+""options"": [
+    ""North-East"",
+    ""South-East"",
+    ""North-West"",
+    ""South-West""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}""{
+""question"": ""P5QR, P4QS, P3QT, ___, P1QV"",
+""options"": [
+    ""PQW"",
+    ""PQV2"",
+    ""P2QU"",
+    ""PQ3U""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}"" ```json{
+""question"": ""Look at this series: 83,
+73,
+93,
+63, __,
+43, .... What number should fill the blank?"",
+""options"": [
+    ""53"",
+    ""73"",
+    ""93""
+],
+""question_type"": ""MCQ"",
+""question_contains_image"": ""no"",
+""question_contains_table"": ""no""
+}
+```"
